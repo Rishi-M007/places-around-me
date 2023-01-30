@@ -43,7 +43,7 @@ To develop a website to display details about the places around my house.
 ```
 
 ## Output:
-![output](pic.png)
-![output](pic2.png)
+![output](./exp4web.png)
+![output](./exp4web2.png)
 ## Result:
 Thus a website is developed to display details about the places around my house.
